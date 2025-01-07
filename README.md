@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 **My Skills**
 - Software development with Flutter stack
+- dart
 - Data analysis Power Bi
 - Machine learning
 - Deep Learning
@@ -50,3 +51,4 @@ Here are some ideas to get you started:
 - Python
 - C/C++
 - Java
+  
