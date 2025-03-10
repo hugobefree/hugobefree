@@ -19,7 +19,7 @@ My name is Hugues Bassim-Swé Hugues.
 I'm a Software Engineer and a project Manager 
 
 - Bachelor  of physics  from  University of Kara ( Togo )
-- I'm currently advancing my knowledge in machine learning , flutter , and managing roject 
+- I'm currently advancing my knowledge in machine learning , flutter , and managing project 
 
 
 <!-- **Reachme via**
